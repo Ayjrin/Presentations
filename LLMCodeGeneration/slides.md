@@ -21,6 +21,7 @@ mermaid:
 <!--https://www.adriantull.com/blog/bug-report-->
 
 
+
 # Automating the Bug-to-PR Pipeline
 
 An Elegant Weapon for a More Civilized Age of Development
@@ -37,15 +38,56 @@ The "Bug-to-PR" pipeline is the concrete example of this philosophy in action.
 layout: center
 ---
 
-# Is it "Just a ChatGPT Wrapper"?
+<v-click>
+
+## What this talk is NOT:
+
+</v-click>
 
 <v-clicks>
 
-### The Equivocation
-"Any AI app is just a ChatGPT wrapper."
+- prescriptive
+- an endorsement of any way of doing things
+- a moral judgement
 
-### The Reality
-Is a SaaS app just a "SQL Wrapper"?
+</v-clicks>
+
+<br>
+<v-click>
+
+## What this talk IS:
+
+</v-click>
+
+<v-clicks>
+
+- what I have done
+- a call for experimentation
+
+</v-clicks>
+
+---
+layout: center
+---
+
+# People Think About GenAI Incorrectly
+
+<v-clicks>
+
+### The Reductive False Equivalence
+"AI apps are just a ChatGPT wrappers."
+
+\=\=
+
+"Every SaaS app is a SQL wrapper."
+
+
+### Some Better Comparisons
+It's like a slot machine
+It's like an intern
+It's like a compiler 
+
+
 
 ### The Challenge
 We are usually wrong about how technology will be used when it first arrives.
